@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="//gmpg.org/xfn/11" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" >   	
+ 
+	<title>Page not found &#8211; Elementor&#039;sblog</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Elementor&#039;sblog &raquo; Feed" href="https://elementor.domvp.xyz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Elementor&#039;sblog &raquo; Comments Feed" href="https://elementor.domvp.xyz/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/elementor.domvp.xyz\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://elementor.domvp.xyz/wp-includes/css/dist/block-library/style.min.css?ver=6.5.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://elementor.domvp.xyz/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.3' media='all' />
+<link rel='stylesheet' id='redux-extendify-styles-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/options-core/assets/css/extendify-utilities.css?ver=4.4.5.2' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.7.0' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.7.0' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.7.0' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='linea_arrows-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core//assets/fonts/linea/arrows/css/style.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='linea_basic-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core//assets/fonts/linea/basic/css/style.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='linea_basic_2-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core//assets/fonts/linea/basic_ela/css/style.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='linea_ecommerce-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core//assets/fonts/linea/basic/css/style.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='linea_music-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core//assets/fonts/linea/basic/css/style.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='linea_software-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core//assets/fonts/linea/software/css/style.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='linea_weather-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core//assets/fonts/linea/weather/css/style.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='themescamp-style-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/css/style.css?ver=6.5.2' media='all' />
+<style id='themescamp-style-inline-css'>
+
+				:root{
+					--color-main:#14CF93;
+					--color-primary:#14CF93;
+					--color-secondary:#14CF93;
+					--color-ternary: #14CF93;
+				}
+			
+a:hover{color:#14CF93;}
+a{color:#999999;}
+h1, h2, h3, h4, h5, h6{color:#000000;} 
+body{color:#666666;}
+.footer{background-color:#13161D;}
+.custom-absolute-menu{border-color: #FFFFFF;}
+/* CUSTOM CSS */
+</style>
+<link rel='stylesheet' id='cute-alert-css' href='https://elementor.domvp.xyz/wp-content/plugins/metform/public/assets/lib/cute-alert/style.css?ver=3.8.6' media='all' />
+<link rel='stylesheet' id='text-editor-style-css' href='https://elementor.domvp.xyz/wp-content/plugins/metform/public/assets/css/text-editor.css?ver=3.8.6' media='all' />
+<link rel='stylesheet' id='metform-pro-style-css' href='https://elementor.domvp.xyz/wp-content/plugins/metform-pro/public/assets/css/style.min.css?ver=3.8.2' media='all' />
+<link rel='stylesheet' id='infolio-fonts-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C400i%2C500%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%7CPoppins%3A300%2C400%2C500%2C600%2C700%2C800%2C900%7CBarlow+Condensed%3A300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=1.0.0' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/bootstrap.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/fontawesome.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='icon-font-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/icon-font.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='ionicons-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/ionicons.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='bootstrap-icons-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/fonts/bootstrap-icons/bootstrap-icons.css?ver=1' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/magnific-popup.css?ver=1' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/animate.css?ver=1' media='all' />
+<link rel='stylesheet' id='magic-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/magic.css?ver=1' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/slick.css?ver=1' media='all' />
+<link rel='stylesheet' id='jquery-fatnav-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/jquery.fatNav.css?ver=1' media='all' />
+<link rel='stylesheet' id='animate-headline-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/animate.headline.css?ver=1' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='splitting-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/splitting.css?ver=1' media='all' />
+<link rel='stylesheet' id='splitting-cells-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/assets/css/splitting-cells.css?ver=1' media='all' />
+<link rel='stylesheet' id='infolio-css' href='https://elementor.domvp.xyz/wp-content/themes/infolio/style.css?ver=1.0.0' media='all' />
+<style id='infolio-inline-css'>
+
+				:root{
+					--color-main:#14CF93;
+					--color-primary:#14CF93;
+					--color-secondary:#14CF93;
+					--color-ternary: #14CF93;
+				}
+			
+a:hover{color:#14CF93;}
+a{color:#999999;}
+h1, h2, h3, h4, h5, h6{color:#000000;} 
+body{color:#666666;}
+.footer{background-color:#13161D;}
+.custom-absolute-menu{border-color: #FFFFFF;}
+/* CUSTOM CSS */
+</style>
+        <script>
+            /* <![CDATA[ */
+            var rcewpp = {
+                "ajax_url":"https://elementor.domvp.xyz/wp-admin/admin-ajax.php",
+                "nonce": "ba3506352d",
+                "home_url": "https://elementor.domvp.xyz/",
+                "settings_icon": 'https://elementor.domvp.xyz/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
+                "settings_hover_icon": 'https://elementor.domvp.xyz/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
+            };
+            /* ]]\> */
+        </script>
+        <script src="https://elementor.domvp.xyz/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.7.0" id="jquery-blockui-js" defer data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/elementor.domvp.xyz\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.7.0" id="wc-add-to-cart-js" defer data-wp-strategy="defer"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.7.0" id="js-cookie-js" defer data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.7.0" id="woocommerce-js" defer data-wp-strategy="defer"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/modernizr.js?ver=6.5.2" id="modernizr-js"></script>
+<link rel="https://api.w.org/" href="https://elementor.domvp.xyz/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://elementor.domvp.xyz/xmlrpc.php?rsd" />
+<meta name="generator" content="Redux 4.4.5.2" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.20.4; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<meta name="generator" content="Powered by Slider Revolution 6.7.0 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://elementor.domvp.xyz/wp-content/uploads/2023/11/favicon-3-1.png" sizes="32x32" />
+<link rel="icon" href="https://elementor.domvp.xyz/wp-content/uploads/2023/11/favicon-3-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://elementor.domvp.xyz/wp-content/uploads/2023/11/favicon-3-1.png" />
+<meta name="msapplication-TileImage" content="https://elementor.domvp.xyz/wp-content/uploads/2023/11/favicon-3-1.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+ 
+</head>
+	
+<body class="error404 wp-embed-responsive theme-infolio  woocommerce-no-js elementor-default elementor-kit-1616"> 
+<div id="preloader"> </div><!-- Standared header start -->
+        <div class="default-header clearfix tcg-core">
+            <nav class="header apply-header not-custom-menu clearfix  white-header shadow-header .">
+                <div class="nav-box">
+                    <div class="stuck-nav">
+                        <div class="header-top d-none d-md-block" > <!-- hidden-xs hidden-sm -->
+                            <div class="container-fluid">
+                                <div class="col"> 
+                                    
+                                    
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>
+                         <div class="container-fluid">
+
+
+                             
+
+                                <div class="top-logo 33 http://elementor.domvp.xyz/wp-content/uploads/2023/11/logo-dark-1.png"> 
+                                                                            <a href="https://elementor.domvp.xyz/"> 
+                                            
+
+                                                <img alt="Logo" class="logo1 logo-dark 3 "  style=height:25px 
+                                                        src="http://elementor.domvp.xyz/wp-content/uploads/2023/11/logo-light-1.png"> 
+
+                                                <img alt="Logo" class="logo1 logo-white 4"  style=height:25px 
+                                                    src="http://elementor.domvp.xyz/wp-content/uploads/2023/11/logo-dark-1.png">
+
+                                                
+                                        </a>
+                                                                    </div><!--End Logo-->
+
+
+
+
+  
+                            
+                            <div class="header-wrapper  d-none d-md-block" > <!-- hidden-xs hidden-sm -->
+                                <div class="main-menu menu-wrapper"> 
+                                    <div class="menu-main-menu-container"><ul id="menu-main-menu" class="home-nav navigation menu"><li id="menu-item-1510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1510"><a href="#0">Home</a>
+<ul class="tcg-nav-item sub-menu depth_0">
+	<li id="menu-item-1511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1511"><a href="https://infolio.themescamp.com/original/">Home Main</a></li>
+	<li id="menu-item-1514" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1514"><a href="https://infolio.themescamp.com/startup/">Modern Startup</a></li>
+	<li id="menu-item-1515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1515"><a href="https://infolio.themescamp.com/creative-agency/">Creative Agency</a></li>
+	<li id="menu-item-1516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1516"><a href="https://infolio.themescamp.com/modern/">Modern Agency</a></li>
+	<li id="menu-item-1517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1517"><a href="https://infolio.themescamp.com/creative-portfolio/">Creative Portfolio</a></li>
+	<li id="menu-item-1518" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1518"><a href="https://infolio.themescamp.com/digital-agency/">Digital Agency</a></li>
+	<li id="menu-item-1519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1519"><a href="https://infolio.themescamp.com/freelancer/">Freelancer</a></li>
+	<li id="menu-item-1520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1520"><a href="https://infolio.themescamp.com/personal/">Personal vCard</a></li>
+	<li id="menu-item-1521" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1521"><a href="https://infolio.themescamp.com/minimal/">Minimal Portfolio</a></li>
+	<li id="menu-item-1522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1522"><a href="https://infolio.themescamp.com/asymmetric/">Asymmetric Portfolio</a></li>
+</ul>
+</li>
+<li id="menu-item-1512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1512"><a href="#0">Portfolio</a>
+<ul class="tcg-nav-item sub-menu depth_0">
+	<li id="menu-item-1547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1547"><a href="#0">PORTFOLIO TYPE</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li id="menu-item-1550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1550"><a href="https://infolio.themescamp.com/inner-pages/portfolio-standard/">Standard</a></li>
+		<li id="menu-item-1551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1551"><a href="https://infolio.themescamp.com/inner-pages/portfolio-gallery/">Gallery</a></li>
+		<li id="menu-item-1552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1552"><a href="https://infolio.themescamp.com/inner-pages/portfolio-metro/">Metro Business</a></li>
+		<li id="menu-item-1553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1553"><a href="https://infolio.themescamp.com/inner-pages/portfolio-masonry/">Masonry</a></li>
+		<li id="menu-item-1554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"><a href="https://infolio.themescamp.com/inner-pages/caption-cursor/">Caption Cursor</a></li>
+		<li id="menu-item-1555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1555"><a href="https://infolio.themescamp.com/inner-pages/portfolio-outline/">Outline</a></li>
+		<li id="menu-item-1556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1556"><a href="https://infolio.themescamp.com/inner-pages/portfolio-parallax/">Parallax</a></li>
+		<li id="menu-item-1557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1557"><a href="https://infolio.themescamp.com/inner-pages/portfolio-sticky/">Sticky</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1548"><a href="#0">SHOWCASE</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li id="menu-item-1558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1558"><a href="https://infolio.themescamp.com/inner-pages/showcase-fullscreen/">Parallax Slider</a></li>
+		<li id="menu-item-1559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1559"><a href="https://infolio.themescamp.com/inner-pages/showcase-carousel/">Showcase Carousel</a></li>
+		<li id="menu-item-1560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1560"><a href="https://infolio.themescamp.com/inner-pages/showcase-half-slider/">Creative Slider</a></li>
+		<li id="menu-item-1561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1561"><a href="https://infolio.themescamp.com/inner-pages/showcase-interactive-full/">Interactive Full</a></li>
+		<li id="menu-item-1562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1562"><a href="https://infolio.themescamp.com/inner-pages/showcase-interactive-center/">Interactive Center</a></li>
+		<li id="menu-item-1563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1563"><a href="https://infolio.themescamp.com/inner-pages/showcase-interactive-vertical/">Interactive Vertical</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1549"><a href="#0">PORTFOLIO SINGLE</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li id="menu-item-1564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564"><a href="https://infolio.themescamp.com/inner-pages/portfolio/avocado-cutter-2/">Project 1</a></li>
+		<li id="menu-item-1565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1565"><a href="https://infolio.themescamp.com/inner-pages/portfolio/earthmade-aroma-2/">Project 2</a></li>
+		<li id="menu-item-1566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566"><a href="https://infolio.themescamp.com/inner-pages/portfolio/viclone/">Project 3</a></li>
+		<li id="menu-item-1567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1567"><a href="https://infolio.themescamp.com/inner-pages/portfolio/blom-air-purifier-2/">Project 4</a></li>
+		<li id="menu-item-1568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1568"><a href="https://infolio.themescamp.com/inner-pages/portfolio/blue-adobe-max-2/">Project 5</a></li>
+		<li id="menu-item-1569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1569"><a href="https://infolio.themescamp.com/inner-pages/portfolio/carved-wood-3/">Project 6</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1523"><a href="#0">Pages</a>
+<ul class="tcg-nav-item sub-menu depth_0">
+	<li id="menu-item-1524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1524"><a href="#0">About Us</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li id="menu-item-1525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1525"><a href="https://infolio.themescamp.com/inner-pages/about-us">About Us 1</a></li>
+		<li id="menu-item-1526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1526"><a href="https://infolio.themescamp.com/inner-pages/about-us2">About Us 2</a></li>
+		<li id="menu-item-1527" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1527"><a href="https://infolio.themescamp.com/inner-pages/about-us3">About Us 3</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1530"><a href="#0">Services</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li id="menu-item-1531" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1531"><a href="https://infolio.themescamp.com/inner-pages/services">Services 1</a></li>
+		<li id="menu-item-1532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1532"><a href="https://infolio.themescamp.com/inner-pages/services2">Services 2</a></li>
+		<li id="menu-item-1533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1533"><a href="https://infolio.themescamp.com/inner-pages/services-single">Services Details</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1534"><a href="#0">Contact Us</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li id="menu-item-1535" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1535"><a href="https://infolio.themescamp.com/inner-pages/contact">Contact Us 1</a></li>
+		<li id="menu-item-1536" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1536"><a href="https://infolio.themescamp.com/inner-pages/contact2">Contact Us 2</a></li>
+		<li id="menu-item-1537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1537"><a href="https://infolio.themescamp.com/inner-pages/contact3">Contact Us 3</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1538" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1538"><a href="https://infolio.themescamp.com/inner-pages/team/">Our Team</a></li>
+	<li id="menu-item-1539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1539"><a href="https://infolio.themescamp.com/inner-pages/team-single/">Team Details</a></li>
+	<li id="menu-item-1540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1540"><a href="https://infolio.themescamp.com/inner-pages/faqs/">FAQS</a></li>
+	<li id="menu-item-1541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1541"><a href="https://infolio.themescamp.com/inner-pages/404-2">Error 404</a></li>
+</ul>
+</li>
+<li id="menu-item-1542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1542"><a href="#0">Blogs</a>
+<ul class="tcg-nav-item sub-menu depth_0">
+	<li id="menu-item-1543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1543"><a href="https://infolio.themescamp.com/inner-pages/blog-classic">Blog Standard</a></li>
+	<li id="menu-item-1544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1544"><a href="https://infolio.themescamp.com/inner-pages/blog-list">Blog List</a></li>
+	<li id="menu-item-1545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1545"><a href="https://infolio.themescamp.com/inner-pages/blog-list2">Blog List 2</a></li>
+	<li id="menu-item-1546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1546"><a href="#">Blog Details</a></li>
+</ul>
+</li>
+<li id="menu-item-1513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1513"><a href="https://infolio.themescamp.com/inner-pages/contact">Contact Us</a></li>
+</ul></div>                                </div><!-- End menu-wrapper -->
+
+
+
+
+                                     
+
+
+
+                                        <ul class="header-icon d-none d-md-block 34">  <!-- hidden-sm hidden-xs --> 
+
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                        </ul><!-- top Socials -->
+
+
+
+                                <div class="search-icon-header d-none d-md-block" > <!-- hidden-xs hidden-sm -->
+                                                          
+
+                                                                    </div>
+                                
+                            </div><!-- header-wrapper -->  
+
+                            <div class="mobile-wrapper d-block d-md-none "> <!-- hidden-lg hidden-md -->
+                                <a href="#" class="hamburger"><div class="hamburger__icon"></div></a>
+                                <div class="fat-nav">
+                                    <div class="fat-nav__wrapper">
+                                        <div class="fat-list"> <ul id="menu-main-menu-1" class="mob-nav  menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1510"><a href="#0">Home</a>
+<ul class="tcg-nav-item sub-menu depth_0">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1511"><a href="https://infolio.themescamp.com/original/">Home Main</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1514"><a href="https://infolio.themescamp.com/startup/">Modern Startup</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1515"><a href="https://infolio.themescamp.com/creative-agency/">Creative Agency</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1516"><a href="https://infolio.themescamp.com/modern/">Modern Agency</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1517"><a href="https://infolio.themescamp.com/creative-portfolio/">Creative Portfolio</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1518"><a href="https://infolio.themescamp.com/digital-agency/">Digital Agency</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1519"><a href="https://infolio.themescamp.com/freelancer/">Freelancer</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1520"><a href="https://infolio.themescamp.com/personal/">Personal vCard</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1521"><a href="https://infolio.themescamp.com/minimal/">Minimal Portfolio</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1522"><a href="https://infolio.themescamp.com/asymmetric/">Asymmetric Portfolio</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1512"><a href="#0">Portfolio</a>
+<ul class="tcg-nav-item sub-menu depth_0">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1547"><a href="#0">PORTFOLIO TYPE</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1550"><a href="https://infolio.themescamp.com/inner-pages/portfolio-standard/">Standard</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1551"><a href="https://infolio.themescamp.com/inner-pages/portfolio-gallery/">Gallery</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1552"><a href="https://infolio.themescamp.com/inner-pages/portfolio-metro/">Metro Business</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1553"><a href="https://infolio.themescamp.com/inner-pages/portfolio-masonry/">Masonry</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"><a href="https://infolio.themescamp.com/inner-pages/caption-cursor/">Caption Cursor</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1555"><a href="https://infolio.themescamp.com/inner-pages/portfolio-outline/">Outline</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1556"><a href="https://infolio.themescamp.com/inner-pages/portfolio-parallax/">Parallax</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1557"><a href="https://infolio.themescamp.com/inner-pages/portfolio-sticky/">Sticky</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1548"><a href="#0">SHOWCASE</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1558"><a href="https://infolio.themescamp.com/inner-pages/showcase-fullscreen/">Parallax Slider</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1559"><a href="https://infolio.themescamp.com/inner-pages/showcase-carousel/">Showcase Carousel</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1560"><a href="https://infolio.themescamp.com/inner-pages/showcase-half-slider/">Creative Slider</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1561"><a href="https://infolio.themescamp.com/inner-pages/showcase-interactive-full/">Interactive Full</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1562"><a href="https://infolio.themescamp.com/inner-pages/showcase-interactive-center/">Interactive Center</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1563"><a href="https://infolio.themescamp.com/inner-pages/showcase-interactive-vertical/">Interactive Vertical</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1549"><a href="#0">PORTFOLIO SINGLE</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1564"><a href="https://infolio.themescamp.com/inner-pages/portfolio/avocado-cutter-2/">Project 1</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1565"><a href="https://infolio.themescamp.com/inner-pages/portfolio/earthmade-aroma-2/">Project 2</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566"><a href="https://infolio.themescamp.com/inner-pages/portfolio/viclone/">Project 3</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1567"><a href="https://infolio.themescamp.com/inner-pages/portfolio/blom-air-purifier-2/">Project 4</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1568"><a href="https://infolio.themescamp.com/inner-pages/portfolio/blue-adobe-max-2/">Project 5</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1569"><a href="https://infolio.themescamp.com/inner-pages/portfolio/carved-wood-3/">Project 6</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1523"><a href="#0">Pages</a>
+<ul class="tcg-nav-item sub-menu depth_0">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1524"><a href="#0">About Us</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1525"><a href="https://infolio.themescamp.com/inner-pages/about-us">About Us 1</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1526"><a href="https://infolio.themescamp.com/inner-pages/about-us2">About Us 2</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1527"><a href="https://infolio.themescamp.com/inner-pages/about-us3">About Us 3</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1530"><a href="#0">Services</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1531"><a href="https://infolio.themescamp.com/inner-pages/services">Services 1</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1532"><a href="https://infolio.themescamp.com/inner-pages/services2">Services 2</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1533"><a href="https://infolio.themescamp.com/inner-pages/services-single">Services Details</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1534"><a href="#0">Contact Us</a>
+	<ul class="tcg-nav-item sub-menu depth_1">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1535"><a href="https://infolio.themescamp.com/inner-pages/contact">Contact Us 1</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1536"><a href="https://infolio.themescamp.com/inner-pages/contact2">Contact Us 2</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1537"><a href="https://infolio.themescamp.com/inner-pages/contact3">Contact Us 3</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1538"><a href="https://infolio.themescamp.com/inner-pages/team/">Our Team</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1539"><a href="https://infolio.themescamp.com/inner-pages/team-single/">Team Details</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1540"><a href="https://infolio.themescamp.com/inner-pages/faqs/">FAQS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1541"><a href="https://infolio.themescamp.com/inner-pages/404-2">Error 404</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1542"><a href="#0">Blogs</a>
+<ul class="tcg-nav-item sub-menu depth_0">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1543"><a href="https://infolio.themescamp.com/inner-pages/blog-classic">Blog Standard</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1544"><a href="https://infolio.themescamp.com/inner-pages/blog-list">Blog List</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1545"><a href="https://infolio.themescamp.com/inner-pages/blog-list2">Blog List 2</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1546"><a href="#">Blog Details</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1513"><a href="https://infolio.themescamp.com/inner-pages/contact">Contact Us</a></li>
+</ul></div>
+                                    </div>
+                                </div>
+                            </div><!-- End mobile-wrapper -->  
+                            
+                        </div><!-- container-fluid -->  
+                    </div><!-- stuck-nav -->
+                </div><!-- nav-box -->
+            </nav><!-- header -->
+        </div>
+
+
+        <!-- Standared header end -->
+            <div id="smooth-wrapper">
+                <div id="smooth-content">
+
+        <div class="tcg-theme">            <div class="clearfix content page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-12 news-list aligncenter">
+                            <h2 class="error-title">404</h2>
+                            <p class="error-text">Oops..!!! Page not found!</p>
+                            <div class="spc-40 clearboth"></div>
+                            <a class="error-btn" href="https://elementor.domvp.xyz/">
+                                Go Back Now!                                <span class="content-btn-align-icon-right content-btn-button-icon">
+                                    <i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+                                </span>
+                            </a>
+                        </div><!--/.col-md-8-->
+                    </div><!--/.row-->
+                </div><!--/.container-->
+            </div><!--/.content-->
+        <footer class="site-footer">		<div data-elementor-type="wp-post" data-elementor-id="766" class="elementor elementor-766" data-elementor-post-type="tcg_teb">
+				<div class="elementor-element elementor-element-129c1137 e-con-full e-flex e-con e-parent" data-id="129c1137" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-1761c9b6 e-flex e-con-boxed e-con e-child" data-id="1761c9b6" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-5f2def1b e-con-full e-flex e-con e-child" data-id="5f2def1b" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+		<div class="elementor-element elementor-element-5a01fca6 e-con-full e-flex e-con e-child" data-id="5a01fca6" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+				<div class="elementor-element elementor-element-4cc4c63f elementor-widget elementor-widget-infolio-heading" data-id="4cc4c63f" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="infolio-heading.default">
+				<div class="elementor-widget-container">
+			        <div class="infolio-heading-text d-rotate wow block-icon">
+                            <a class= "d-flex align-items-end flex-wrap"  href="https://infolio.themescamp.com/inner-pages/contact3/" >
+            <h2 class="infolio-heading elementor-size-default inline-block  rotate-text">Let’s Contact</h2><span class='icon rotate-text'><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"><g></g><path d="M16 0.997v9.003h-1v-7.297l-10.317 10.297-0.707-0.708 10.315-10.295h-7.316v-1h9.025z"></path></svg></span>                </a>
+                    </div>
+
+        		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-53f60a55 e-con-full e-flex e-con e-child" data-id="53f60a55" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+		<div class="elementor-element elementor-element-6cd0d90 e-con-full e-flex e-con e-child" data-id="6cd0d90" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+		<div class="elementor-element elementor-element-2d7e2c0c e-con-full e-flex e-con e-child" data-id="2d7e2c0c" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+				<div class="elementor-element elementor-element-32c42b4c elementor-widget elementor-widget-tcg-site-logo" data-id="32c42b4c" data-element_type="widget" data-settings="{&quot;logo_type&quot;:&quot;light&quot;,&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="tcg-site-logo.default">
+				<div class="elementor-widget-container">
+			 
+
+        <div class="tcg-logo">
+            <div class="top-logo"> 
+                                    <a href="https://elementor.domvp.xyz/"> 
+
+
+                        
+                            <img alt="Logo" class="logo1" 
+                                src="http://elementor.domvp.xyz/wp-content/uploads/2023/11/logo-light-1.png"> 
+
+                            
+                    </a>
+                            </div>
+        </div><!--End Logo-->
+        
+
+        		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-55c0edc2 e-con-full e-flex e-con e-child" data-id="55c0edc2" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+				<div class="elementor-element elementor-element-57dd55fd elementor-widget elementor-widget-heading" data-id="57dd55fd" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.20.0 - 10-04-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">address</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-33526eb6 elementor-widget elementor-widget-infolio-heading" data-id="33526eb6" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="infolio-heading.default">
+				<div class="elementor-widget-container">
+			        <div class="infolio-heading-text">
+            <h2 class="infolio-heading elementor-size-default ">5919 Trussville <br> Crossings Pkwy, Birmingham</h2>        </div>
+
+        		</div>
+				</div>
+				<div class="elementor-element elementor-element-ffa4a8e elementor-widget elementor-widget-infolio-heading" data-id="ffa4a8e" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="infolio-heading.default">
+				<div class="elementor-widget-container">
+			        <div class="infolio-heading-text">
+                            <a  href="#0" >
+            <h2 class="infolio-heading elementor-size-default ">+2 456 (343) 24 45</h2>                </a>
+                    </div>
+
+        		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-146edb8b e-con-full e-flex e-con e-child" data-id="146edb8b" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+				<div class="elementor-element elementor-element-3bf47ae elementor-widget elementor-widget-heading" data-id="3bf47ae" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">USEFUL LINKS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-637f7897 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="637f7897" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://infolio.themescamp.com/inner-pages/about-us/" target="_blank">
+
+											<span class="elementor-icon-list-text">About</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://infolio.themescamp.com/inner-pages/services/" target="_blank">
+
+											<span class="elementor-icon-list-text">Services</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://infolio.themescamp.com/inner-pages/blog-list2/" target="_blank">
+
+											<span class="elementor-icon-list-text">Blog</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://infolio.themescamp.com/inner-pages/contact/" target="_blank">
+
+											<span class="elementor-icon-list-text">Contact</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3bfb31bb e-con-full e-flex e-con e-child" data-id="3bfb31bb" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+				<div class="elementor-element elementor-element-28b3a84b elementor-widget elementor-widget-heading" data-id="28b3a84b" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Support</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6335e8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6335e8" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://infolio.themescamp.com/inner-pages/faqs/">
+
+											<span class="elementor-icon-list-text">FAQS</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://infolio.themescamp.com/inner-pages/about-us/">
+
+											<span class="elementor-icon-list-text">Term & Conditions</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://infolio.themescamp.com/inner-pages/about-us/">
+
+											<span class="elementor-icon-list-text">Privacy policy</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://infolio.themescamp.com/inner-pages/about-us/">
+
+											<span class="elementor-icon-list-text">Help</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1fbf8897 e-con-full e-flex e-con e-child" data-id="1fbf8897" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+		<div class="elementor-element elementor-element-60034811 e-con-full e-flex e-con e-child" data-id="60034811" data-element_type="container" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+				<div class="elementor-element elementor-element-56a0e005 elementor-widget elementor-widget-infolio-social-media" data-id="56a0e005" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="infolio-social-media.default">
+				<div class="elementor-widget-container">
+			            <ul class="rest infolio-social-media d-flex ">
+                                    <li class="infolio-hover-this cursor-pointer ">
+                        <a href="#0" class="infolio-hover-anim" >
+                            <svg aria-hidden="true" class="e-font-icon-svg e-fab-facebook-f" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg>                                                                                                                </a>
+                    </li>
+                                    <li class="infolio-hover-this cursor-pointer ">
+                        <a href="#0" class="infolio-hover-anim" >
+                            <svg aria-hidden="true" class="e-font-icon-svg e-fab-dribbble" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 8C119.252 8 8 119.252 8 256s111.252 248 248 248 248-111.252 248-248S392.748 8 256 8zm163.97 114.366c29.503 36.046 47.369 81.957 47.835 131.955-6.984-1.477-77.018-15.682-147.502-6.818-5.752-14.041-11.181-26.393-18.617-41.614 78.321-31.977 113.818-77.482 118.284-83.523zM396.421 97.87c-3.81 5.427-35.697 48.286-111.021 76.519-34.712-63.776-73.185-116.168-79.04-124.008 67.176-16.193 137.966 1.27 190.061 47.489zm-230.48-33.25c5.585 7.659 43.438 60.116 78.537 122.509-99.087 26.313-186.36 25.934-195.834 25.809C62.38 147.205 106.678 92.573 165.941 64.62zM44.17 256.323c0-2.166.043-4.322.108-6.473 9.268.19 111.92 1.513 217.706-30.146 6.064 11.868 11.857 23.915 17.174 35.949-76.599 21.575-146.194 83.527-180.531 142.306C64.794 360.405 44.17 310.73 44.17 256.323zm81.807 167.113c22.127-45.233 82.178-103.622 167.579-132.756 29.74 77.283 42.039 142.053 45.189 160.638-68.112 29.013-150.015 21.053-212.768-27.882zm248.38 8.489c-2.171-12.886-13.446-74.897-41.152-151.033 66.38-10.626 124.7 6.768 131.947 9.055-9.442 58.941-43.273 109.844-90.795 141.978z"></path></svg>                                                                                                                </a>
+                    </li>
+                                    <li class="infolio-hover-this cursor-pointer ">
+                        <a href="#0" class="infolio-hover-anim" >
+                            <svg aria-hidden="true" class="e-font-icon-svg e-fab-linkedin-in" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"></path></svg>                                                                                                                </a>
+                    </li>
+                                    <li class="infolio-hover-this cursor-pointer ">
+                        <a href="#0" class="infolio-hover-anim" >
+                            <svg aria-hidden="true" class="e-font-icon-svg e-fab-instagram" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg>                                                                                                                </a>
+                    </li>
+                            </ul>
+        		</div>
+				</div>
+				<div class="elementor-element elementor-element-4dd3f1c0 elementor-widget elementor-widget-infolio-text-editor" data-id="4dd3f1c0" data-element_type="widget" data-settings="{&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}" data-widget_type="infolio-text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="infolio-text-editor">
+										<div class="elementor-text-editor elementor-clearfix">
+						<p>© 2023 InFolio is Proudly Powered by <a href="https://themeforest.net/user/themescamp">ThemesCamp</a></p>							</div>
+					</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-787f8b97 e-con-full e-flex e-con e-child" data-id="787f8b97" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;absolute&quot;,&quot;tc_dark_mode_responsive_hide_in_dark&quot;:&quot;no&quot;,&quot;tc_dark_mode_responsive_hide_in_light&quot;:&quot;no&quot;}">
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+		</footer></div></div> <!-- #smooth-wrapper -->
+                        <!--to top button-->
+                        <div class="progress-wrap cursor-pointer">
+                            <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+                            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+                            </svg>
+                        </div>
+                    
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="text/javascript">// Custom js</script>	<script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='redux-custom-fonts-css' href='//elementor.domvp.xyz/wp-content/uploads/redux/custom-fonts/fonts.css?ver=1712855738' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.4' media='all' />
+<link rel='stylesheet' id='elementor-post-766-css' href='https://elementor.domvp.xyz/wp-content/uploads/elementor/css/post-766.css?ver=1712854946' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.20.4' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.20.4' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Poppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.5.2' media='all' />
+<link rel='stylesheet' id='elementor-post-1616-css' href='https://elementor.domvp.xyz/wp-content/uploads/elementor/css/post-1616.css?ver=1712843298' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://elementor.domvp.xyz/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.20.3' media='all' />
+<link rel='stylesheet' id='YouTubePopUp-css' href='https://elementor.domvp.xyz/wp-content/plugins/infolio_plugin/elements/assets/css/global/YouTubePopUp.css' media='all' />
+<link rel='stylesheet' id='laby-css' href='https://elementor.domvp.xyz/wp-content/plugins/infolio_plugin/elements/assets/css/global/laby.css' media='all' />
+<link rel='stylesheet' id='swiper.min-css' href='https://elementor.domvp.xyz/wp-content/plugins/infolio_plugin/elements/assets/css/global/swiper.min.css' media='all' />
+<link rel='stylesheet' id='infolio-plg-style-css' href='https://elementor.domvp.xyz/wp-content/plugins/infolio_plugin/elements/assets/css/style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='themescamp-style-addons-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/fonts/flaticon/flaticon.css' media='all' />
+<link rel='stylesheet' id='fontawesome-style-addons-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/fonts/fa/css/fontawesome.min.css' media='all' />
+<link rel='stylesheet' id='peicon-style-addons-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/fonts/peicon/pe-icon-7-stroke.css' media='all' />
+<link rel='stylesheet' id='themescamp-elements-style-css' href='https://elementor.domvp.xyz/wp-content/plugins/themescamp-core//elementor/elements/assets/css/style.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='google-fonts-2-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.5.2' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='//elementor.domvp.xyz/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.0' media='all' />
+<style id='rs-plugin-settings-inline-css'>
+#rs-demo-id {}
+</style>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.3" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/elementor.domvp.xyz\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.3" id="contact-form-7-js"></script>
+<script src="//elementor.domvp.xyz/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.0" defer async id="tp-tools-js"></script>
+<script src="//elementor.domvp.xyz/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.0" defer async id="revmin-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=8.7.0" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"ajaxurl":"https:\/\/elementor.domvp.xyz\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+</script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=8.7.0" id="wc-order-attribution-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/scripts.js?ver=1.1.3" id="scripts-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/social-share.js?ver=1.1.3" id="social-share-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/gsap.min.js?ver=6.5.2" id="gsap-js-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/ScrollTrigger.min.js?ver=6.5.2" id="gsap-st-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/ScrollToPlugin.min.js?ver=6.5.2" id="gsap-stp-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/ScrollSmoother.min.js?ver=6.5.2" id="gsap-ss-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/SplitText.min.js?ver=6.5.2" id="gsap-spt-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/app-animation.js?ver=6.5.2" id="gsap-app-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/sticky-kit.min.js?ver=6.5.2" id="skicky-kit-js-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/sticky.js?ver=6.5.2" id="skicky-kit-app-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/loader.js?ver=6.5.2" id="preloader-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.8.6" id="cute-alert-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/bootstrap.min.js?ver=6.5.2" id="bootstrap-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2" id="jquery-effects-core-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/superfish.js?ver=6.5.2" id="superfish-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/pace.min.js?ver=6.5.2" id="pace-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/jquery.fitvids.js?ver=6.5.2" id="jquery-fitvids-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/jquery.magnific-popup.min.js?ver=6.5.2" id="jquery-magnific-popup-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/jquery.sticky.js?ver=6.5.2" id="jquery-sticky-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/slick.min.js?ver=6.5.2" id="slick-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/slick-animation.js?ver=6.5.2" id="slick-animation-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/ResizeSensor.min.js?ver=6.5.2" id="resizesensor-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/theia-sticky-sidebar.min.js?ver=6.5.2" id="theia-sticky-sidebar-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/svgembedder.min.js?ver=6.5.2" id="svgembedder-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/totop.js?ver=6.5.2" id="infolio-totop-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/animated.headline.js?ver=6.5.2" id="animated-headline-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/splitting.min.js?ver=6.5.2" id="splitting-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/isotope.pkgd.min.js?ver=6.5.2" id="isotope.pkgd-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/swiper.min.js?ver=6.5.2" id="swiper-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/simpleParallax.min.js?ver=6.5.2" id="simpleParallax-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/waypoints.min.js?ver=6.5.2" id="waypoints-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/jquery.counterup.min.js?ver=6.5.2" id="jquery-counterup-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/jquery.knob.js?ver=6.5.2" id="jquery-knob-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/wow.min.js?ver=6.5.2" id="jquery-wow-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/jquery.appear.js?ver=6.5.2" id="jquery-appear-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/themes/infolio/assets/js/scripts.js?ver=6.5.2" id="infolio-scripts-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.20.4" id="font-awesome-4-shim-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/infolio_plugin/elements/assets/js/background-image.js" id="infolio-background-image-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/infolio_plugin/elements/assets/js/parallax.js" id="infolio-parallax-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.20.3" id="elementor-pro-webpack-runtime-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.4" id="elementor-frontend-modules-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/elementor.domvp.xyz\/wp-admin\/admin-ajax.php","nonce":"7cd8c0881a","urls":{"assets":"https:\/\/elementor.domvp.xyz\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/elementor.domvp.xyz\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/elementor.domvp.xyz\/cart\/","checkout_page_url":"https:\/\/elementor.domvp.xyz\/checkout\/","fragments_nonce":"3b7ee08bd4"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/elementor.domvp.xyz\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.20.3" id="elementor-pro-frontend-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://elementor.domvp.xyz/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.20.4","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_swiper_latest":true,"container_grid":true,"theme_builder_v2":true,"block_editor_assets_optimize":true,"ai-layout":true,"landing-pages":true,"e_image_loading_optimization":true,"notes":true,"display-conditions":true,"form-submissions":true,"taxonomy-filter":true},"urls":{"assets":"https:\/\/elementor.domvp.xyz\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":0,"title":"Page not found &#8211; Elementor&#039;sblog","excerpt":""}};
+</script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.4" id="elementor-frontend-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.20.3" id="pro-elements-handlers-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/metform-pro/public/assets/js/repeater.js?ver=3.8.2" id="metform-pro-repeater-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/elementor/elements/assets/js/global-front/isotope.pkgd.min.js" id="isotope.pkgd.min-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/infolio_plugin/elements/assets/js/global/elements-script.js" id="elements-script-js"></script>
+<script src="https://elementor.domvp.xyz/wp-content/plugins/themescamp-core/assets/js/scripts.js?ver=1.1.3" id="themescamp-addons-custom-scripts-js"></script>
+
+	</body>
+</html> 
